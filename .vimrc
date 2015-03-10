@@ -1,4 +1,6 @@
 syntax enable
-set background=dark
-colorscheme solarized
-
+set number
+filetype plugin indent on
+set tabstop=2
+set shiftwidth=2
+set expandtab
